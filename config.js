@@ -1,9 +1,9 @@
 // Thanks For Allah
-// Rzy.bot
+// piaan.bot 
 
 
 let fs = require('fs')
-global.owner = ['', '','','6288270863279','6281524154183'] // Letakan nomor kamu disini
+global.owner = ['6281524154183', '628827086327','','6288270863279','6281524154183'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -43,8 +43,8 @@ global.APIKeys = { // APIKey nya disini
 global.packname = 'Piaanz-bot'
 global.author = 'Piaanz-bot'
 
-global.wait = '「 ⏱️ 」Harap tunggu sebentar...'
-global.eror = '「❗」Server ERROR!'
+global.wait = '「 ⏱️ 」 tunggu bentar ngap:D...'
+global.eror = '「❗」Server ERROR Ngap !:('
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.watermark = '©PiaanzBot' //change the watermark 
 global.image = 'https://telegra.ph/file/1a3eac3701775793618b3.jpg' //change the image
